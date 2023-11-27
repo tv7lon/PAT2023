@@ -1,0 +1,8 @@
+Diluc#Pyro#Claymore#2#3#6#A young kitty who bravely protects his city at night. However now, he prefers quiet yet lively evenings bartending at the city's top tavern.
+Hu Tao#Pyro#Polearm#2#3#6#The energetic director of the Meowland Security Station who often practises channeling otherworldly spirits. 
+Ganyu#Cryo#Bow#2#3#4#Currently studying the art of alchemy, the quiet student collects tree saplings and works with Kaeya to find a cure for the deadly disease spreading in Meowland currently.
+Kaeya#Cryo#Polearm#2#3#4#The sly and intelligent Kaeya often spends his nights annoying his brother, Diluc, at the tavern. These two have never seemed to get along yet no one knows why...
+Childe#Hydro#Bow#3#4#6#Thrown into the "Abyss" at a young age, Childe is a most refined warrior of the highest rank in the Meowland Assassiation Group. He used to be seen at festivals while dancing on stage but now he searches the world in search of more worth opponents to defeat...
+Mona#Hydro#Claymore#1#2#3#Renting one of the rather shabby apartments in Meowland, Mona often invites Ganyu to practises astronomy spells on her. Whether Ganyu leaves with all 4 paws is, as Mona says, "a decision of the stars".
+Baal#Electro#Polearm#2#4#5#Electro emperor of the Meowland region and Scaramouche's mother. Despite her stoic demeanor as an emperor, when with Scaramouche, another side of her is seen from her happiness of getting her son back from the evil Fatui. 
+Scaramouche#Electro#Bow#2#3#4#An ex-member of the evil Fatui organisation, Scaramouche wanders the vast world alone in hopes of discovering his new identity but by some unlucky charm, he usually is disturbed by Childe who constantly invites him out for dinners.

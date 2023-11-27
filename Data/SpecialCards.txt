@@ -1,0 +1,11 @@
+Increase Pyro Damage#Increases any character's pyro damage by 1.
+Increase Cryo Damage#Increases any character's cryo damage by 1.
+Increase Electro Damage#Increases any character's electro damage by 1.
+Increase Hydro Damage#Increases any character's hydro damage by 1.
+Increase Claymore Damage#Increases all claymore damage by 1.
+Increase Bow Damage#Increases all bow damage by 1.
+Increase Polearm Damage#Increases all polearm damage by 1.
+Heal Two HP#Heal all characters for 2 health points.
+Heal One HP#Gain one hp for a random character.
+Deal 3 Damage For Free#Deal 3 damage costing no dice.
+One Less Dice#Spend 1 less dice on each attack.
